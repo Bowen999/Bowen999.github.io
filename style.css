@@ -419,3 +419,23 @@ a:hover {
 {
 	border-radius: 8px;
 }
+
+/* Applying general styles for all heading levels */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Geometric', sans-serif; /* Replace 'Geometric' with your specific font name */
+    text-align: left;
+    padding: 30px; /* Applying padding as specified */
+}
+
+/* Styling for h2 specifically */
+h2 {
+    color: #0033cc; /* Applying the specified color */
+    font-weight: bold; /* Making it bold */
+}
+
+/* Styling for paragraphs */
+p {
+    font-family: Arial, sans-serif;
+    text-align: justify;
+    padding: 30px; /* Applying padding as specified */
+}
